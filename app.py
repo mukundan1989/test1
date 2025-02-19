@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 from custom_component.indexed_db_component import indexed_db_component
 
 # Streamlit app
